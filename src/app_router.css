@@ -1,0 +1,6 @@
+@charset "utf-8";
+
+ul#main-nav  {display:flex; list-style-type: none; width: 100%; justify-content: center; padding: 0}
+ul#main-nav li { padding: 0 10px}
+.header {text-align:center}
+

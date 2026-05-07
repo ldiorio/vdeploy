@@ -1,0 +1,4 @@
+.emp {border: 1px solid #34B078; padding: 10px; max-width: 150px; text-align: center;  margin: 5px}
+.emp p {padding: 0; margin: 2px 0;   }
+.employees {display:flex}
+
